@@ -1,5 +1,6 @@
 Cameron Rohlof
 ---------------
-Computer Science student at Saginaw Valley State University
+Application Developer at Finvi
+Graduate of the Computer Science program at Saginaw Valley State University
 
-My repository of personal projects
+My repository of personal projects, explorations, and whatever else I find interesting.
