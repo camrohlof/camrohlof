@@ -1,6 +1,6 @@
 Cameron Rohlof
 ---------------
-Application Developer at Finvi
+Software Developer at Boyce Systems
 
 Graduate of the Computer Science program at Saginaw Valley State University
 
